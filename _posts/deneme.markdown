@@ -1,6 +1,6 @@
 ---
 title:  "Deneme Yazısı"
-date:   2016-01-08 15:04:23
+date:   2016-11-28 17:04:23
 categories: [jekyll]
 tags: [jekyll]
 ---
